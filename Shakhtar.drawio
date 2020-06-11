@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-11T06:21:33.044Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="TI-BzLcU_LPUlEQxoXV-" version="13.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-11T06:23:02.869Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="hzeweCxKLph4GVMIvj3b" version="13.2.1" type="github">
   <diagram id="IyPydjw5QlKbOZAZAvIa" name="Page-1">
-    <mxGraphModel dx="1975" dy="1861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1385" dy="1505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -209,7 +209,10 @@
           <mxGeometry x="320" y="900" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="8UruansU7Lyf3w-Pljux-57" value="DiggerController" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;labelBackgroundColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="560" y="900" width="160" height="90" as="geometry" />
+          <mxGeometry x="560" y="900" width="160" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="8UruansU7Lyf3w-Pljux-117" value="dig(block: Block): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;" vertex="1" parent="8UruansU7Lyf3w-Pljux-57">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="8UruansU7Lyf3w-Pljux-58" value="BudgetPanelModel" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;labelBackgroundColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="-200" y="80" width="160" height="90" as="geometry" />
